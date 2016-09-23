@@ -1,0 +1,5 @@
+#! /usr/local/bin/python
+import rosdep2.main 
+import sys
+
+rosdep2.main.rosdep_main(sys.argv[1:])
