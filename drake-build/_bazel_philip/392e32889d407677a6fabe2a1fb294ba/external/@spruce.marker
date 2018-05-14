@@ -1,0 +1,5 @@
+ddcf352da10dd9a5311daeb47e3e9d97
+FILE:@drake//third_party:josephdavisco_spruce/LICENSE f606ab4fa8450bfe4ad726b28794b53770dcab2e046d8a002fe44e7d74fa59a4
+FILE:@drake//third_party:josephdavisco_spruce/spruce.cc a5b14919fa2a9d614cb81f966d01bc255d9c42a53bdb48ebc2df1d35001cf28f
+FILE:@drake//third_party:josephdavisco_spruce/spruce.hh 7c3ccfcd83d7e9d3a82cac8b0fdbb1172ba4cbb999ab4693b4791002c95173bd
+FILE:@drake//tools/workspace/spruce:package.BUILD.bazel 177082140e675a05462e77e6cbd1080551de446bf91c947822eaece12bfd0516

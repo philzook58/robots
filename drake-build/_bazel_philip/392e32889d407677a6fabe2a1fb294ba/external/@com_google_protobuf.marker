@@ -1,0 +1,4 @@
+0decde01941862c35e0d0551d6267699
+FILE:@drake//third_party:com_github_google_protobuf/LICENSE af67c58de2e18677a0b8cb5fffbe2232aabb8eb2930e8cd684769cef3d74a262
+FILE:@drake//third_party:com_github_google_protobuf/protobuf.bzl 64f54fe4dec475736a63d53f0aa21738b11db2224f973dc1b65c8463408e91c8
+FILE:@drake//tools/workspace/com_google_protobuf:package.BUILD.bazel 046dca7c50badf8354385350b90bdce0ec8b67c126ccad9874a0670aaccb8abf

@@ -1,0 +1,2 @@
+# DO NOT EDIT: automatically generated WORKSPACE file for spruce_repository rule
+workspace(name = "spruce")

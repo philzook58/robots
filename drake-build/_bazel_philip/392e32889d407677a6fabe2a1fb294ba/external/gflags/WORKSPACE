@@ -1,0 +1,2 @@
+# DO NOT EDIT: automatically generated WORKSPACE file for gflags_repository rule
+workspace(name = "gflags")

@@ -1,0 +1,77 @@
+[32mLoading:[0m 
+[1A[K[32mLoading:[0m 0 packages loaded
+[1A[K[32mLoading:[0m 0 packages loaded
+    currently loading: 
+[1A[K[1A[K[32mAnalyzing:[0m target //:install (1 packages loaded)
+[1A[K[32mAnalyzing:[0m target //:install (1 packages loaded)
+    currently loading: @bazel_tools//tools/cpp
+[1A[K[1A[K[32mAnalyzing:[0m target //:install (2 packages loaded)
+[1A[K[32mAnalyzing:[0m target //:install (2 packages loaded)
+[1A[K[32mAnalyzing:[0m target //:install (2 packages loaded)
+[1A[K[32mAnalyzing:[0m target //:install (2 packages loaded)
+[1A[K[32mAnalyzing:[0m target //:install (2 packages loaded)
+[1A[K[32mAnalyzing:[0m target //:install (2 packages loaded)
+[1A[K[32mAnalyzing:[0m target //:install (2 packages loaded)
+[1A[K[32mAnalyzing:[0m target //:install (2 packages loaded)
+[1A[K[32mAnalyzing:[0m target //:install (2 packages loaded)
+[1A[K[32mAnalyzing:[0m target //:install (2 packages loaded)
+[1A[K[32mAnalyzing:[0m target //:install (2 packages loaded)
+[1A[K[32mAnalyzing:[0m target //:install (2 packages loaded)
+[1A[K[32mAnalyzing:[0m target //:install (2 packages loaded)
+    currently loading: @local_config_cc//
+[1A[K[1A[K[32mAnalyzing:[0m target //:install (3 packages loaded)
+[1A[K[32mAnalyzing:[0m target //:install (4 packages loaded)
+    currently loading: tools/workspace
+[1A[K[1A[K[32mAnalyzing:[0m target //:install (9 packages loaded)
+    currently loading: lcmtypes ... (6 packages)
+[1A[K[1A[K[32mAnalyzing:[0m target //:install (15 packages loaded)
+    currently loading: manipulation/models/xtion_description
+[1A[K[1A[K[32mAnalyzing:[0m target //:install (20 packages loaded)
+    currently loading: manipulation/models/xtion_description ... (31 packages)
+[1A[K[1A[K[32mAnalyzing:[0m target //:install (28 packages loaded)
+    currently loading: manipulation/models/xtion_description ... (36 packages)
+[1A[K[1A[K[32mAnalyzing:[0m target //:install (30 packages loaded)
+    currently loading: manipulation/models/xtion_description ... (72 packages)
+[1A[K[1A[K[32mAnalyzing:[0m target //:install (42 packages loaded)
+    currently loading: @bazel_tools//tools/jdk ... (66 packages)
+[1A[K[1A[K[32mAnalyzing:[0m target //:install (81 packages loaded)
+    currently loading: bindings/pydrake/util ... (27 packages)
+[1A[K[1A[K[32mAnalyzing:[0m target //:install (81 packages loaded)
+    currently loading: bindings/pydrake/util ... (27 packages)
+[1A[K[1A[K[32mAnalyzing:[0m target //:install (81 packages loaded)
+    currently loading: bindings/pydrake/util ... (27 packages)
+    Fetching https://github.com/...7a94d53dea01bfceba5f3cbe8e8cc9fb0244.tar.gz
+    Fetching https://github.com/...af87fd97969a89ed0018ae72e5dacc8d308a.tar.gz
+    Fetching https://github.com/...6541398749c2aab4b5b2c38be77d268085cc.tar.gz
+    Fetching https://github.com/...89ca77f4dc26de8703bba6de72e999511850.tar.gz
+    Fetching https://github.com/gabime/spdlog/archive/v0.13.0.tar.gz
+    Fetching https://github.com/...cb00a440e858211661d179a15904586fb45f.tar.gz
+    Fetching https://github.com/...6bd0dbb1f9d5a0f662a6f5caecf469fd42d2.tar.gz
+[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[31m[1mERROR: [0m/Users/philip/Documents/robots/drake/tools/install/libdrake/BUILD.bazel:106:1: no such package '@dreal//': Unable to complete setup for @dreal repository: error 1 from [/usr/local/bin/pkg-config, "dreal"]:  and referenced by '//tools/install/libdrake:drake_shared_library'
+[32mAnalyzing:[0m target //:install (81 packages loaded)
+    currently loading: bindings/pydrake/util ... (27 packages)
+    Fetching https://github.com/...69a89ed0018ae72e5dacc8d308a.tar.gz; 12,324b
+    Fetching https://github.com/gabime/spdlog/archive/v0.13.0.tar.gz; 14,437b
+    Fetching https://github.com/...858211661d179a15904586fb45f.tar.gz; 14,401b
+    Fetching https://github.com/...6bd0dbb1f9d5a0f662a6f5caecf469fd42d2.tar.gz
+[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[31m[1mERROR: [0mAnalysis of target '//:install' failed; build aborted: no such package '@dreal//': Unable to complete setup for @dreal repository: error 1 from [/usr/local/bin/pkg-config, "dreal"]: 
+[32mAnalyzing:[0m target //:install (81 packages loaded)
+    currently loading: bindings/pydrake/util ... (27 packages)
+    Fetching https://github.com/...69a89ed0018ae72e5dacc8d308a.tar.gz; 12,324b
+    Fetching https://github.com/gabime/spdlog/archive/v0.13.0.tar.gz; 14,437b
+    Fetching https://github.com/...858211661d179a15904586fb45f.tar.gz; 14,401b
+    Fetching https://github.com/...6bd0dbb1f9d5a0f662a6f5caecf469fd42d2.tar.gz
+[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[32mINFO: [0mElapsed time: 20.326s
+[32mAnalyzing:[0m target //:install (81 packages loaded)
+    currently loading: bindings/pydrake/util ... (27 packages)
+    Fetching https://github.com/...69a89ed0018ae72e5dacc8d308a.tar.gz; 12,324b
+    Fetching https://github.com/gabime/spdlog/archive/v0.13.0.tar.gz; 14,437b
+    Fetching https://github.com/...858211661d179a15904586fb45f.tar.gz; 14,401b
+    Fetching https://github.com/...6bd0dbb1f9d5a0f662a6f5caecf469fd42d2.tar.gz
+[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[31m[1mFAILED:[0m Build did NOT complete successfully (81 packages loaded)
+    currently loading: bindings/pydrake/util ... (27 packages)
+    Fetching https://github.com/...69a89ed0018ae72e5dacc8d308a.tar.gz; 12,324b
+    Fetching https://github.com/gabime/spdlog/archive/v0.13.0.tar.gz; 14,437b
+    Fetching https://github.com/...858211661d179a15904586fb45f.tar.gz; 14,401b
+    Fetching https://github.com/...6bd0dbb1f9d5a0f662a6f5caecf469fd42d2.tar.gz
+[0m

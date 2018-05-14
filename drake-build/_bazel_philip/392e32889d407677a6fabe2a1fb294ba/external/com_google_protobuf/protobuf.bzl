@@ -1,0 +1,1 @@
+/Users/philip/Documents/robots/drake-build/_bazel_philip/392e32889d407677a6fabe2a1fb294ba/external/drake/third_party/com_github_google_protobuf/protobuf.bzl

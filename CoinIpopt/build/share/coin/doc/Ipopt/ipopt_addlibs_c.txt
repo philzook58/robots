@@ -1,0 +1,1 @@
+-L/Users/philip/Documents/robots/CoinIpopt/build/lib -L/usr/local/Cellar/gcc/7.3.0_1/lib/gcc/7/gcc/x86_64-apple-darwin16.7.0/7.3.0 -L/usr/local/Cellar/gcc/7.3.0_1/lib/gcc/7/gcc/x86_64-apple-darwin16.7.0/7.3.0/../../.. -lipopt -framework Accelerate -lm -ldl -lcoinhsl -lgfortran -lSystem -lquadmath -lm -lc++

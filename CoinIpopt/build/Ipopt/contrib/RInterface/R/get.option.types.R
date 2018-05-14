@@ -1,0 +1,1 @@
+/Users/philip/Documents/robots/CoinIpopt/Ipopt/contrib/RInterface/R/get.option.types.R

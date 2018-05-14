@@ -1,0 +1,2 @@
+# DO NOT EDIT: automatically generated WORKSPACE file for which rule
+workspace(name = "protoc")

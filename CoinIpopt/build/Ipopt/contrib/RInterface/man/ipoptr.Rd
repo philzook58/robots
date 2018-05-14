@@ -1,0 +1,1 @@
+/Users/philip/Documents/robots/CoinIpopt/Ipopt/contrib/RInterface/man/ipoptr.Rd

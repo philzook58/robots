@@ -1,0 +1,2 @@
+# DO NOT EDIT: automatically generated WORKSPACE file for pkg_config_repository rule
+workspace(name = "tinyxml2")

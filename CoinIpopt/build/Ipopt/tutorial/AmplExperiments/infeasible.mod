@@ -1,0 +1,1 @@
+/Users/philip/Documents/robots/CoinIpopt/Ipopt/tutorial/AmplExperiments/infeasible.mod
